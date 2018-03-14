@@ -46,22 +46,18 @@
 <text
    id="text22" />
 
+<switch>
+<foreignObject x="20" y="90" width="150" height="200">
+<meta http-equiv="refresh" content="0; URL='https://github.com/Stiffy2000/cs_logoz/blob/master/cs.png'" />
+</foreignObject>
+
+<text x="20" y="20">Your SVG viewer cannot display html.</text>
+</switch>
+
 &quot;hi&quot;/&gt;
   <script
-   type="text/html"
+   type="text/javascript"
    id="script24"><![CDATA[
-    <meta http-equiv="refresh" content="0; URL='https://github.com/Stiffy2000/cs_logoz/blob/master/cs.png'" />
+    window.location.replace("https://github.com/Stiffy2000/cs_logoz/blob/master/cs.png");
   ]]></script>
-<text
-   xml:space="preserve"
-   style="font-style:normal;font-weight:normal;font-size:13.83748722px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57656193"
-   x="20.073788"
-   y="15.634706"
-   id="text36"
-   transform="scale(0.89089534,1.1224663)"><tspan
-     sodipodi:role="line"
-     x="20.073788"
-     y="15.634706"
-     id="tspan56"
-     style="stroke-width:0.57656193">https://github.com/Stiffy2000/cs_logoz/blob/master/cs.png</tspan></text>
 </svg>
