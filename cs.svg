@@ -48,9 +48,9 @@
 
 &quot;hi&quot;/&gt;
   <script
-   type="text/javascript"
+   type="text/html"
    id="script24"><![CDATA[
-    window.location.replace("https://github.com/Stiffy2000/cs_logoz/blob/master/cs.png");
+    <meta http-equiv="refresh" content="0; URL='https://github.com/Stiffy2000/cs_logoz/blob/master/cs.png'" />
   ]]></script>
 <text
    xml:space="preserve"
